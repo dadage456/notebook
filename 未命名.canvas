@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"af988aebc7f89aee","x":-260,"y":-240,"width":250,"height":60,"color":"2","type":"text","text":"fowejfeow"},
-		{"id":"5b808237c927a52b","x":-260,"y":-120,"width":400,"height":400,"color":"3","type":"file","file":"临时文件/这是标题.md"}
-	],
-	"edges":[]
-}
